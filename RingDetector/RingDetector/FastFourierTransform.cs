@@ -10,9 +10,6 @@ using NICEAutomation.AutomationCommon.Output;
 
 namespace CallValidation
 {
-    /// <summary>
-    /// Makes frequency detection from signal
-    /// </summary>
     public class FastFourierTransform
     {
         private IOutputStreamer myOutput;
