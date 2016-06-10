@@ -19,6 +19,10 @@ namespace CallValidation
             myOutput = OutputStreamer.GetInstance().GetCurrentStreamer();
         }
 
+        public void NewMethod()
+        {
+            
+        }
 
         [ComVisible(true)]
         public List<string> CountSentences(IOutputStreamer _objTestLog, string filePath) //MP
