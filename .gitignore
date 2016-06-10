@@ -1,0 +1,6 @@
+*.exe
+*.dll
+*.pdb
+RingDetector/RingDetector/bin*/
+RingDetector/RingDetector/obj*/
+RingDetector/RingDetector/Prpperties*/
